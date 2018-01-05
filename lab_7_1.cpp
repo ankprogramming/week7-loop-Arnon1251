@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  
+
   cout << "This is simple loop"<< endl << endl ;
 
   int i = 0;
@@ -12,7 +12,7 @@ int main() {
   for(i = 0; i < 10 ; i++) {
     cout << "Round " << i << endl;
   }
-
+printf("i = %d",i);
   // TODO : แก้ไขส่วนนี้ด้วยการใช้ for
   cout << "Hello World 1" << endl;
   cout << "Hello World 2" << endl;

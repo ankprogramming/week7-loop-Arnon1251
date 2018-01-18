@@ -2,7 +2,7 @@
 
 using namespace std;
 
-
+int main () {
 
   int num =0;
 
@@ -12,6 +12,6 @@ using namespace std;
    {
     cout << num << endl;
     }
-
+  }
   return 0;
   }
